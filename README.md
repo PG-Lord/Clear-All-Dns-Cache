@@ -2,6 +2,7 @@
 # DNS Cache Clearer 🚀
 
 این ابزار به شما کمک می‌کند تا **تمام کش DNS سیستم خود را پاک کنید** و مشکلات مربوط به اینترنت را برطرف کنید.  
+
 This tool helps you **clear all your system DNS cache** and fix internet related problems
 
 ## 🎯 ویژگی‌ها  
