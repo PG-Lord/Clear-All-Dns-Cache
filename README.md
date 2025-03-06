@@ -13,4 +13,4 @@
 ۳. سیستم شما به‌صورت خودکار ری‌استارت می‌شود.  
 
 ## 🔗 دانلود نرم‌افزار  
-[📥 دانلود برنامه]([لینک-نرم‌افزار-شما](https://github.com/PG-Lord/Clear-All-Dns-Cash/archive/refs/heads/master.zip))  
+[📥 دانلود برنامه](https://github.com/PG-Lord/Clear-All-Dns-Cash/archive/refs/heads/master.zip)  
