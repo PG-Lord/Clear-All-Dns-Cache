@@ -9,6 +9,7 @@ This tool helps you **clear all your system DNS cache** and fix internet related
 ✅ پاکسازی کامل کش DNS  
 ✅ اجرای آسان فقط با یک کلیک  
 ✅ راه‌اندازی مجدد سیستم پس از پاکسازی  
+
 ## 🎯 Features
 ✅ Clear all DNS cache
 ✅ Easy to run with just one click 
