@@ -10,9 +10,9 @@ This tool helps you **clear all your system DNS cache** and fix internet related
 ✅ اجرای آسان فقط با یک کلیک  
 ✅ راه‌اندازی مجدد سیستم پس از پاکسازی  
 ## 🎯 Features
- ✅ Clear all DNS cache 
- ✅ Easy to run with just one click 
- ✅ Restart the system after clearing
+✅ Clear all DNS cache
+✅ Easy to run with just one click 
+✅ Restart the system after clearing
 ## 🛠 نحوه استفاده  
 ۱. فایل را اجرا کنید.  
 ۲. صبر کنید تا عملیات انجام شود.  
